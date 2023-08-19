@@ -27,11 +27,11 @@ Exciting news! This project is grooving to the rhythm of the [MIT License](https
 
 ## Let's Connect! 📞
 
-Need to chat? Feel free to drop me a line via [Email](mailto:novaardiansyah78@gmail.com) or hit me up on  [Whatsapp](https://wa.me/6289506668480?text=Hi%20Nova,%20I%20have%20a%20question%20about%20AI%20ThreeJS%20Product%20Web%20Application) I'm just a message away, ready to groove with you! 📩
+Need to chat? Feel free to drop me a line via [Email](mailto:novaardiansyah78@gmail.com) or hit me up on  [Whatsapp](https://wa.me/6289506668480?text=Hi%20Nova,%20I%20have%20a%20question%20about%20Modern%20Metaverse%20Web%20Application) I'm just a message away, ready to groove with you! 📩
 
 ## Sneak Peek 🌟
 
-Get a glimpse of the app's enchanting world by exploring the current progress at [https://metaverse.novaardiansyah.site/](http://metaverse.novaardiansyah.site/). Feast your eyes on these snapshots that showcase the app's dynamic essence:
+Get a glimpse of the app's enchanting world by exploring the current progress at [https://metaverse.novaardiansyah.site/](https://metaverse.novaardiansyah.site/). Feast your eyes on these snapshots that showcase the app's dynamic essence:
 
 <div style="margin-bottom: 5px">
   <img src="public/img/capture/image-1.png" alt="image-1" style="width: 300px; margin-right: 10px" />
