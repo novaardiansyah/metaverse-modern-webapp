@@ -45,7 +45,7 @@ Get a glimpse of the app's enchanting world by exploring the current progress at
 
 ## Project Status 🚀 
 
-![stages](https://img.shields.io/badge/stages-development-informational)
+![stages](https://img.shields.io/badge/stages-production-informational)
 [![information](https://img.shields.io/badge/information-references-informational)](https://github.com/novaardiansyah/metaverse-modern-webapp/blob/main/references.json)
 ![size](https://img.shields.io/github/repo-size/novaardiansyah/metaverse-modern-webapp?label=size&color=informational)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/novaardiansyah/metaverse-modern-webapp/blob/main/LICENSE)
