@@ -40,4 +40,4 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
   </motion.div>
 );
 
-export default ExploreCard
+export default ExploreCard;

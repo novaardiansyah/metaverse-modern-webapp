@@ -1,14 +1,14 @@
-'use client'
+'use client';
 
-import { motion } from 'framer-motion'
-import { socials } from '../constants'
-import styles from '../styles'
+import { motion } from 'framer-motion';
+import { socials } from '../constants';
+import styles from '../styles';
 
-import { footerVariants } from '../utils/motion'
+import { footerVariants } from '../utils/motion';
 
 const Footer = () => {
-  let year = new Date().getFullYear()
-  if (year !== 2023) year = `2023-${year}`
+  let year = new Date().getFullYear();
+  if (year !== 2023) year = `2023-${year}`;
 
   return (
     <motion.footer
@@ -33,9 +33,8 @@ const Footer = () => {
 
           <div className="flex flex-wrap items-center justify-between gap-4">
             <h4 className="font-extrabold text-[24px] text-white">METAVERSUS</h4>
-            
             <p className="font-normal text-[14px] text-white opacity-50">
-              Copyright &copy; {year} <a href="https://novaardiansyah.site/" target="_blank">Nova Ardiansyah</a>. All rights reserved
+              Copyright &copy; {year} <a href="https://novaardiansyah.site/" target="_blank" rel="noreferrer">Nova Ardiansyah</a>. All rights reserved
             </p>
 
             <div className="flex gap-4">
@@ -49,7 +48,7 @@ const Footer = () => {
         </div>
       </div>
     </motion.footer>
-  )
-}
+  );
+};
 
 export default Footer;
